@@ -8,5 +8,7 @@ main:
     url: /categories/react/
   - title: "Categories"
     url: /categories/
+  - title: "Year"
+    url: /year-archive/
   - title: "SW BLOG"
     url: https://devinlife.com/categories/
