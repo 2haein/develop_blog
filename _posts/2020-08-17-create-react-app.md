@@ -1,7 +1,7 @@
 ---
 title: "Create-React-App 사용하기"
 categories:
-  - React
+  - react
 last_modified_at: 2020-08-17T13:00:00+09:00
 tags:
   - javascript

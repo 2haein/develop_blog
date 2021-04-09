@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /about/
   - title: "React"
-    url: /categories/React/
+    url: /categories/react/
   - title: "Categories"
     url: /categories/
   - title: "SW BLOG"
