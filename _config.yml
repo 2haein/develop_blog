@@ -270,4 +270,7 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
+      related: truev
+      toc: true
+      toc_sticky: true
+      toc_label: "페이지 주요 목차"
