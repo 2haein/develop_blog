@@ -4,5 +4,9 @@ main:
     url: /
   - title: "About"
     url: /about/
+  - title: "React"
+    url: /categories/React/
+  - title: "Categories"
+    url: /categories/
   - title: "SW BLOG"
     url: https://devinlife.com/categories/
