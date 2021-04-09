@@ -1,13 +1,14 @@
 ---
 title: "React의 장점 (논외: Vue.js와의 비교)"
 date: 2021-04-01T15:00:00.000Z
-description: "두 프론트엔드 라이브러리 중 React의 "
+description: "두 프론트엔드 라이브러리 중 React"
 categories: React Vue.js
 toc: true
 toc_sticky: true
+excerpt: "Strength of React"
 ---
 
-# 도입
+## 도입
 
 회사에서 주로 SPA 기반의 웹 프론트엔드를 개발하였다. 개발은 [Vue.js](https://vuejs.org/)를 메인으로 [Angular.js](https://angularjs.org/)를 서브 기술로 사용하고 그 결과 내린 결론이 있는데, **선택권이 있는 상황에선 무조건 React를 사용하겠다**는 것이다.
 
@@ -21,7 +22,7 @@ React를 Vue.js보다 선호하는 이유는 크게 세 가지 정도로 정리�
 
 하나씩 살펴보자.
 
-# TS 지원
+## TS 지원
 
 이 항목은 React의 비교우위가 명백하다. React와 TS의 결합은 아주 매끄럽다. 큰 BP 없이도 SFC와 클래스 기반 컴포넌트 둘 모두의 타입을 정확하게 기술할 수 있고, [redux](https://github.com/reactjs/redux)를 비롯한 툴도 대부분 훌륭한 타입 지원을 제공한다.
 
@@ -29,7 +30,7 @@ React를 Vue.js보다 선호하는 이유는 크게 세 가지 정도로 정리�
 
 TS의 필요성에 공감하지 못하거나 도입이 너무 어렵고 사용하지 않는 사람들을 꽤 보았는데, 그런 이에겐 이 항목은 별로 해당 사항이 없다.
 
-# 컴포넌트 정의 용이함
+## 컴포넌트 정의 용이함
 
 Vue.js는 컴포넌트에 관한 템플릿, 스타일과 스크립트를 `.vue` 확장자를 갖는 한 파일 내에 모두 작성할 수 있는 [단일 파일 컴포넌트(Single File Component)](https://vuejs.org/v2/guide/single-file-components.html)를 제공한다. 이를 사용해 허구의 `UserList` 컴포넌트를 작성하는 경우를 생각해보자.
 
@@ -223,13 +224,13 @@ export default class UserList extends Component {
 - 작은 컴포넌트를 정의하는 문법이 직관적이고 간결하다.
 - 컴포넌트 정의하는 두 문법(SFC, 클래스 기반 컴포넌트)이 더 일관적이다.
 
-# 빠른 개선
+## 빠른 개선
 
 React에는 새로운 Context API, 라이플사이클 메소드 등 [React Blog](https://reactjs.org/blog/)에 많은 변경사항이 있다.
 
 반면 Vue.js의 Release는 주로 마이너한 변경사항 위주인 경우가 많다. [현존하는 두 라이브러리 사이의 간극](https://stateofjs.com/2017/front-end/results)
 
-# 마지막으로
+### 마지막으로
 
 - Vue.js는 사용자에게 쉽게 느껴지는 API를 제공하기 위해 라이브러리가 직접 헤비 리프팅을 하는 경우가 많다.
 - React는 Vue.js에 비해 더 적은 가정을 하고, 컴포넌트 기반의 선언적 UI 렌더링이라는 가장 핵심적인 기능과 관련된 부분만 코어에 포함한다.
