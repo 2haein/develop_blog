@@ -16,7 +16,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-KOR"
-title: "SW SITE"
+title: "SW Development"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 # name: "Haein"
