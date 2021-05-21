@@ -2,6 +2,7 @@
 title: "React의 장점 (논외: Vue.js와의 비교)"
 date: 2021-04-01T15:00:00.000Z
 description: "두 프론트엔드 라이브러리 중 React"
+author: haein
 categories: react vue
 tags:
   - javascript
