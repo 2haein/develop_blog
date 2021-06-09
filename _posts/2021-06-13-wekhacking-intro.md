@@ -14,7 +14,13 @@ toc_sticky: true
 
 - 웹 공간 내 취약성 진단을 위해 최소한의 지식이라는 것이 반드시 필요하므로
   - 결국엔 발견된 취약점에 대한 설명과 대응책 수립을 위해 웹의 흐름 파악.
-    - 웹의 취약점 진단 FLOW 1. 웹 기초에 대한 이해 2. 웹 어플리케이션에 대한 이해 3. 웹 어플리케이션 로직에 대한 이해 4. 취약점에 대한 이해 5. 응용 취약점에 대한 이해 6. 대응책 수립
+    - 웹의 취약점 진단 FLOW
+      1. 웹 기초에 대한 이해
+      2. 웹 어플리케이션에 대한 이해
+      3. 웹 어플리케이션 로직에 대한 이해
+      4. 취약점에 대한 이해
+      5. 응용 취약점에 대한 이해
+      6. 대응책 수립
 
 ## 웹 기초 지식 및 관련 키워드
 
@@ -58,7 +64,7 @@ toc_sticky: true
   - 웹 어플리케이션 서버
     - 동적인 컨텐츠 자원 제공을 담당
 
-> [[inflearn] 크리핵티브](https://www.inflearn.com/instructors/213605/courses) [반드시 알고 넘어가야 할 웹 기술 기초편](https://www.inflearn.com/course/%EC%9B%B9-%EA%B8%B0%EC%88%A0-%EA%B8%B0%EC%B4%88) 강의 참고.\n
+> [[inflearn] 크리핵티브](https://www.inflearn.com/instructors/213605/courses) [반드시 알고 넘어가야 할 웹 기술 기초편](https://www.inflearn.com/course/%EC%9B%B9-%EA%B8%B0%EC%88%A0-%EA%B8%B0%EC%B4%88) 강의 참고
 >
-> - 참고 링크\n
+> - 참고 링크
 >   - [위키백과](https://ko.wikipedia.org/wiki/)"
