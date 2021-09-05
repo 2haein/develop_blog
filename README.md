@@ -7,7 +7,7 @@
 
 :sparkles: See what's new in the [CHANGELOG](CHANGELOG.md).
 
-### ![Link](https://blog.thekpop.net)
+### [Link](https://blog.thekpop.net)
 
 <!-- ## Demo pages
 
