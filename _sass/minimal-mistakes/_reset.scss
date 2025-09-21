@@ -10,20 +10,6 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-<<<<<<< HEAD
-  font-size: 12px; // change to whatever
-    
-  @include breakpoint($medium) {
-    font-size: 14px; // change to whatever
-  }
-
-  @include breakpoint($large) {
-    font-size: 16px; // change to whatever
-  }
-
-  @include breakpoint($x-large) {
-    font-size: 18px; // change to whatever
-=======
   font-size: $doc-font-size;
 
   @include breakpoint($medium) {
@@ -36,7 +22,6 @@ html {
 
   @include breakpoint($x-large) {
     font-size: $doc-font-size-x-large;
->>>>>>> upstream/master
   }
 
   -webkit-text-size-adjust: 100%;

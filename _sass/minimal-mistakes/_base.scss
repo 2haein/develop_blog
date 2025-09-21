@@ -109,19 +109,11 @@ abbr[data-original-title] {
 /* blockquotes */
 
 blockquote {
-<<<<<<< HEAD
-  margin: 2em 1em 2em 0;
-  padding-left: 1em;
-  padding-right: 1em;
-  font-style: normal;
-  border-left: 0.25em solid $primary-color;
-=======
   margin-block: 2em;
   margin-inline-end: 1em;
   padding-inline: 1em;
   font-style: italic;
   border-inline-start: 0.25em solid $primary-color;
->>>>>>> upstream/master
 
   cite {
     font-style: normal;
